@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast>
+	<food type="drink">
+		<name>Γαλλικός Καφές</name>
+		<price>1.5</price>
+		<description>Ποικιλία Arabika</description>
+		<calories>50</calories>
+	</food>
+	<food type="amyl">
+		<name>Φρυγανιές</name>
+		<price>1</price>
+		<description>Ολικής αλέσεως</description>
+		<calories>400</calories>
+	</food>
+	<food type="drink">
+		<name>Γάλα</name>
+		<price>0.8</price>
+		<description>Πλήρες</description>
+		<calories>200</calories>
+	</food>
+</breakfast>
